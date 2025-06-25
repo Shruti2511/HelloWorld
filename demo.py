@@ -20,13 +20,13 @@ def area_of_circle(r):
 
 def main():
     """Main function to print area of a circle with radius 10."""
-    r = 10
+    r = 20
     area = area_of_circle(r)
     print(area)
 
 
-# Area of Circle R = 10
-r = 10
+# Area of Circle R = 20
+r = 15
 print(area_of_circle(r))
   
 if __name__ == "__main__":
